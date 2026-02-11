@@ -47,7 +47,7 @@
 
 如遇到问题或有建议，欢迎通过以下方式联系：
 
-- 邮箱：zhang_nan_mail@163.com
+- 邮箱：oskar7@qq.com
 - GitHub Issues：[https://github.com/seinzn/pan/issues](https://github.com/seinzn/pan/issues)
 
 ---
